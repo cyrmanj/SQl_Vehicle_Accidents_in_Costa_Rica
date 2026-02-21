@@ -43,6 +43,10 @@ cursor = conn.cursor()
 cursor.execute("SELECT * FROM accidents LIMIT 10")
 ```
 
+## Data source:
+
+https://datosabiertos.csv.go.cr/datasets/193472/consolidado-de-accidentes-de-transito-con-victimas/
+
 ## Data Source
 
 Base de accidentes con víctimas 2018-2024 (Costa Rica)
