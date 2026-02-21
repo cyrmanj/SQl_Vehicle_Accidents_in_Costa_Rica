@@ -43,7 +43,7 @@ cursor = conn.cursor()
 cursor.execute("SELECT * FROM accidents LIMIT 10")
 ```
 
-## Data source:
+## Data source
 
 Base de accidentes con víctimas 2018-2024 (Costa Rica)
 
